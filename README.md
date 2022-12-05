@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ghanemDev (Flutter Developer)
-- 👀 I’m interested in improving my knowledge
-- 🌱 I’m currently learning PHP Laravel
 - 📫 How to reach me : https://www.linkedin.com/in/ghanem-abdelaziz-40a40a23a/
 
 <!---
